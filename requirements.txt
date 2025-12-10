@@ -1,0 +1,23 @@
+streamlit==1.29.0
+requests==2.31.0
+PyPDF2==3.0.1
+groq==0.4.3
+python-dotenv==1.0.0
+
+gunicorn==21.2.0  
+
+python-docx==1.1.0        # Word export
+reportlab==4.0.7          # PDF generation
+bibtexparser==1.4.1       # BibTeX export
+
+sqlalchemy==2.0.23        # Database ORM
+psycopg2-binary==2.9.9    # PostgreSQL driver
+
+
+arxiv==2.1.0              # ArXiv API
+
+fuzzywuzzy==0.18.0        # Fuzzy string matching
+python-Levenshtein==0.23.0  # Speed up fuzzywuzzy
+
+streamlit-extras==0.3.6   # Better UI components
+plotly==5.18.0            # Visualizations
