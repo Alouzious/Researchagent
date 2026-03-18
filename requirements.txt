@@ -77,14 +77,8 @@ soupsieve==2.8.3
 SQLAlchemy>=2.0.36
 st-annotated-text==4.0.2
 streamlit>=1.40.0
-streamlit-camera-input-live==0.2.0
 streamlit-card==1.0.2
-streamlit-embedcode==0.1.2
-streamlit-extras==0.3.6
-streamlit-image-coordinates==0.1.9
 streamlit-keyup==0.3.0
-streamlit-toggle-switch==1.0.2
-streamlit-vertical-slider==2.5.5
 tenacity==8.5.0
 toml==0.10.2
 tornado==6.5.5
